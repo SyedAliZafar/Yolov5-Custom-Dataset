@@ -12,4 +12,4 @@ python detect.py --source path\to\images\your_image.jpg --weights runs\train\exp
 
 
 
-## Note the training code is in the master branch
+##### Note the training code is in the master branch
