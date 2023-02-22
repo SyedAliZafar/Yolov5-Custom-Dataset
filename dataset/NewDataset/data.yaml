@@ -1,0 +1,13 @@
+train: dataset/train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['cracks']
+
+roboflow:
+  workspace: access-ev
+  project: defectdetection-uqqw4
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/access-ev/defectdetection-uqqw4/dataset/1

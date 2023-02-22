@@ -1,0 +1,8 @@
+train: "D:\\ChatGPTFolder\\YoloImplementation\\Dataset\\train"
+test: "D:\\ChatGPTFolder\\YoloImplementation\\Dataset\\test"
+val: "D:\\ChatGPTFolder\\YoloImplementation\\Dataset\\val"
+
+nc: 1  # number of classes
+
+names:
+- 'newCracks'
